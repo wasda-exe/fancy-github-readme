@@ -15,13 +15,10 @@
 </p>
 <br>
 <div>
-<table style="border:none;">
-<tr>
-<td>
-<div>
- 
-```sh
-console.log("Ayyaan Alim Skills:");
+<table style="border: none; width: 100%;">
+    <tr>
+      <td style="padding: 10px; border: none; vertical-align: top;">
+        <pre><code>console.log("Ayyaan Alim Skills:");
 
 let developments = {
   "Web Development": {
@@ -36,16 +33,13 @@ let developments = {
     "Languages": ["Python"],
     "Libraries": ["Numpy", "Pandas", "Sklearn", "OpenCV"]
   },
-};
-
-```
-</div>
-</td>
-<td width="350">
-<img valign="middle" alt="androidgif" src="https://camo.githubusercontent.com/9afefcbff89a66b497e623146404d0e0d51fd46d9cd4039f8580a339a2ad9cbc/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f323830302f312a4255376630324c655165454c7a747178613865436d772e676966">
-</td>
-</tr>
-</table>
+};</code></pre>
+      </td>
+      <td style="padding: 10px; border: none; vertical-align: top;" width="350">
+        <img style="width: 100%;" alt="androidgif" src="https://camo.githubusercontent.com/9afefcbff89a66b497e623146404d0e0d51fd46d9cd4039f8580a339a2ad9cbc/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f323830302f312a4255376630324c655165454c7a747178613865436d772e676966">
+      </td>
+    </tr>
+  </table>
 </div>
 
 <hr>

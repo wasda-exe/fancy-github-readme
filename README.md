@@ -14,11 +14,12 @@
 <a href="https://www.youtube.com/channel/UCkGdhHQxt5K2uKWN5VSeb-g" target="blank"><img src="https://img.shields.io/youtube/channel/views/UCkGdhHQxt5K2uKWN5VSeb-g" alt="ayyaan_alim" height="28"/></a>
 </p>
 <br>
+
+<div style="display:flex;flex-direction:row;">
 <div>
-<table style="border: none; width: 100%;">
-    <tr>
-      <td style="padding: 10px; border: none; vertical-align: top;">
-        <pre><code>console.log("Ayyaan Alim Skills:");
+ 
+```sh
+console.log("Ayyaan Alim Skills:");
 
 let developments = {
   "Web Development": {
@@ -33,15 +34,14 @@ let developments = {
     "Languages": ["Python"],
     "Libraries": ["Numpy", "Pandas", "Sklearn", "OpenCV"]
   },
-};</code></pre>
-      </td>
-      <td style="padding: 10px; border: none; vertical-align: top;" width="350">
-        <img style="width: 100%;" alt="androidgif" src="https://camo.githubusercontent.com/9afefcbff89a66b497e623146404d0e0d51fd46d9cd4039f8580a339a2ad9cbc/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f323830302f312a4255376630324c655165454c7a747178613865436d772e676966">
-      </td>
-    </tr>
-  </table>
-</div>
+};
 
+```
+</div>
+<div>
+<img valign="middle" width="350" alt="androidgif" src="https://camo.githubusercontent.com/9afefcbff89a66b497e623146404d0e0d51fd46d9cd4039f8580a339a2ad9cbc/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f323830302f312a4255376630324c655165454c7a747178613865436d772e676966">
+</div>
+</div>
 <hr>
 
 

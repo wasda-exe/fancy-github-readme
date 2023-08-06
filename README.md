@@ -1,5 +1,5 @@
 <img align="left" src="https://user-images.githubusercontent.com/67560900/107698101-10797e00-6cda-11eb-8357-b7808d66151a.gif" hieght="70" width="310" alt="hellogif">
-<h1 align="center"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" hieght = "20" width="40"/>  I'm <a href="https://wasda-exe.github.io/personal-website-v2/" target="_blank">Ayyaan</a>. Nice to see you 🤗!</h1>
+<h1 align="center"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" hieght = "20" width="40"/>  I'm <a href="https://wasda-exe.github.io/personal-website-v2/" target="_blank">Ayyaan</a>. Nice to see you 🤗</h1>
 <br>
 <h3 align="center" >WEB DEVELOPMENT ~ CODING ~ MACHINE LEARNING & OPEN SOURCE</h3>
 
@@ -15,7 +15,7 @@
 </p>
 <br>
 <div>
-<table>
+<table style="border:none;">
 <tr>
 <td>
 <div>
@@ -41,13 +41,11 @@ let developments = {
 ```
 </div>
 </td>
-<td>
-<img valign="middle" alt="androidgif" src="https://camo.githubusercontent.com/9afefcbff89a66b497e623146404d0e0d51fd46d9cd4039f8580a339a2ad9cbc/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f323830302f312a4255376630324c655165454c7a747178613865436d772e676966" width="350">
+<td width="350">
+<img valign="middle" alt="androidgif" src="https://camo.githubusercontent.com/9afefcbff89a66b497e623146404d0e0d51fd46d9cd4039f8580a339a2ad9cbc/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f323830302f312a4255376630324c655165454c7a747178613865436d772e676966">
 </td>
 </tr>
 </table>
-<br>
-<br>
 </div>
 
 <hr>

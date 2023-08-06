@@ -5,18 +5,18 @@
 
 <p align="center" style="display: inline">
 <!-- <img src="https://img.shields.io/github/stars/wasda-exe?style=for-the-badge"> -->
-<img src="https://img.shields.io/youtube/channel/subscribers/UCkGdhHQxt5K2uKWN5VSeb-g">
+<img src="https://img.shields.io/youtube/channel/subscribers/UCkGdhHQxt5K2uKWN5VSeb-g" height="28">
 <img src="https://img.shields.io/github/followers/wasda-exe?style=for-the-badge">
 <a href="https://www.linkedin.com/in/ayyaan-alim-6897aa224/"><img src="https://img.shields.io/badge/-Ayyaan-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayyaan-alim-6897aa224/)](https://www.linkedin.com/in/ayyaan-alim-6897aa224/"></a>
 <a href="https://wasda-exe.github.io/personal-website-v2/">
  <img src="https://img.shields.io/badge/Portfolio%20-%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
 </a>
-<a href="https://www.youtube.com/channel/UCkGdhHQxt5K2uKWN5VSeb-g" target="blank"><img src="https://img.shields.io/youtube/channel/views/UCkGdhHQxt5K2uKWN5VSeb-g" alt="ayyaan_alim" /></a>
+<a href="https://www.youtube.com/channel/UCkGdhHQxt5K2uKWN5VSeb-g" target="blank"><img src="https://img.shields.io/youtube/channel/views/UCkGdhHQxt5K2uKWN5VSeb-g" alt="ayyaan_alim" height="28"/></a>
 </p>
 <br>
 <div>
 
-<img align = "right" alt="androidgif" src="https://camo.githubusercontent.com/9afefcbff89a66b497e623146404d0e0d51fd46d9cd4039f8580a339a2ad9cbc/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f323830302f312a4255376630324c655165454c7a747178613865436d772e676966">
+<img align = "right" alt="androidgif" src="https://camo.githubusercontent.com/9afefcbff89a66b497e623146404d0e0d51fd46d9cd4039f8580a339a2ad9cbc/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f323830302f312a4255376630324c655165454c7a747178613865436d772e676966" width="350">
 <br>
 <br>
 
@@ -58,7 +58,7 @@ let developments = {
 💞️ If you wanna collab, especially while listening to Pink Floyd in the background, then
 <br>
 <br>
-- 📫 Get in touch, we'll vibe! ;)
+📫 Get in touch, we'll vibe! ;)
 <br>
 <hr>
 <h3 align="left">Languages and Tools:</h3>
@@ -131,8 +131,8 @@ let developments = {
 <table>
 <tr>
 <td align="center"><a href="https://www.codechef.com/users/wasda"><img src="./images/codechef-logo.png" width="350" height ="250"/><h4>Codechef Profile</h4>
-<td align="center"><a href="https://leetcode.com/user5893Li/"><img src="./images/LeetCode-logo.pngg" width="350" height ="250"/></a></br> <h4 style="color:red;">Codeforces Profile</h4>
-<td align="center"><a href="https://www.hackerrank.com/wasda_exe"><img src="./images/hackerrank-logo.jpg" width="350" height ="250"/><h4>Atcoder Profile</h4>
+<td align="center"><a href="https://leetcode.com/user5893Li/"><img src="./images/LeetCode-logo.png" width="350" height ="250"/></a></br> <h4 style="color:red;">LeetCode Profile</h4>
+<td align="center"><a href="https://www.hackerrank.com/wasda_exe"><img src="./images/hackerrank-logo.jpg" width="350" height ="250"/><h4>HackerRank Profile</h4>
 </table>
 <br>
  
@@ -145,13 +145,6 @@ let developments = {
 <td align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=wasda-exe&show_icons=true&theme=react&border_color=61dafb&include_all_commits=true" width="500"/>
 <td align="center"<a href="(https://git.io/streak-stats" title="Go to Source"><img width="500" src="http://github-readme-streak-stats.herokuapp.com?user=wasda-exe&theme=react&border=61DAFB&fire=DDB80F"/></a>
 </table>
- 
-<table>
-<tr>
-<td align="center"<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img width="600" hieght="250" src="https://github-readme-stats.vercel.app/api/wakatime?username=sudipmondal&theme=react&border_color=61dafb&langs_count=13" /></a>
-<td align="center"<a href="" title="Go to Source"><img src="https://user-images.githubusercontent.com/67560900/135058203-f80c9621-b921-4662-97e5-17b4ff1a0369.gif" width="400" hieght="250"/></a>
-</table>
-
 
 <div align=center>
     <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
@@ -163,13 +156,13 @@ let developments = {
 <h3 align="center">Connect with me:</h3>
 <p align="center">
     <a href="mailto:wasda.exe@gmail.com" target="blank"><img align="center"
-            src="https://cdn.iconscout.com/icon/free/png-64/gmail-2981844.png" alt="facebook" height="40"
+            src="https://cdn.iconscout.com/icon/free/png-512/free-gmail-2981844-2476484.png" alt="gmail" height="40"
             width="40" /></a>
     <a href="https://www.linkedin.com/in/ayyaan-alim-6897aa224/" target="blank"><img align="center"
             src="https://cdn.iconscout.com/icon/free/png-64/linkedin-208-916919.png" alt="linkedin" height="40"
             width="40" /></a>
     <a href="https://www.youtube.com/channel/UCkGdhHQxt5K2uKWN5VSeb-g" target="blank"><img align="center"
-            src="https://cdn.iconscout.com/icon/free/png-64/youtube-85.png" alt="youtube" height="40"
+            src="https://cdn.iconscout.com/icon/free/png-512/free-youtube-85-226402.png" alt="youtube" height="40"
             width="40" /></a>
 </p>
 
